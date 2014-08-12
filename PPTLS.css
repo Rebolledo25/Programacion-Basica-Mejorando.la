@@ -1,0 +1,17 @@
+body
+{
+	background: #6495ED;
+	color: LightGray;
+}
+
+h1
+{
+	color: Moccasin;
+	text-align: center;
+}
+
+p
+{
+	font-family: "Arial";
+	font-size: 24px;
+}
