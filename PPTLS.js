@@ -142,5 +142,5 @@ else if (opcionUsuario == Spock)
 
 else
 {
-    alert("Eres idiota.");
+    alert("Acaba de ingresar un término no válido. Inténtelo de nuevo.");
 }
